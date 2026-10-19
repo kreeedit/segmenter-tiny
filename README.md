@@ -156,7 +156,7 @@ the student.
 ```bibtex
 @misc{charter-diplomatic-segmentation,
   title     = {Distilled Weakly-Supervised Multi-Head Segmentation of Medieval Charters},
-  author    = {Kov{\'a}cs, Tam{\'a}s and Nicolaou, Anguelos and Atzenhofer-Baumgartner, Florian and Renet, Nicolas
+  author    = {Kovács, Tamás and Nicolaou, Anguelos and Atzenhofer-Baumgartner, Florian and Renet, Nicolas
                and Consolo, Giuseppe and Tscherne, Niklas and Decker, Franziska and Vogeler, Georg},
   year      = {2026},
   publisher = {Hugging Face},
@@ -165,8 +165,8 @@ the student.
 }
 
 @incollection{ostrowski2021formular,
-  title     = {Automatische Erkennung und Klassifikation von Formularbestandteilen in K{\"o}nigsurkunden.
-               Zur Aufbereitung digitaler Urkundenkorpora in der Medi{\"a}vistik},
+  title     = {Automatische Erkennung und Klassifikation von Formularbestandteilen in Königsurkunden.
+               Zur Aufbereitung digitaler Urkundenkorpora in der Medievistik},
   author    = {Ostrowski, Alina},
   booktitle = {Die Historischen Grundwissenschaften heute. Tradition -- Methodische Vielfalt -- Neuorientierung},
   editor    = {Doublier, {\'E}tienne and Schulz, Daniela and Trump, Dominik},
