@@ -140,7 +140,7 @@ convention, which keeps `NARRATIO` distinct from `DISPOSITIO`.
   the teacher's errors. Treat the output as a first structuring to be checked, not as an edition.
 - **Genre and period.** Training data are royal and ecclesiastical charters of the 10th–14th centuries. Other
   genres (the Barletta notarial instrument in the demo), periods and orthographies can give lower accuracy.
-- **Licence.** CC BY-NC 4.0: non-commercial use only.
+- **Licence.** The code in this repository is Apache-2.0. The model itself is CC BY-NC 4.0 (non-commercial use only); see its model card.
 
 ## Demo texts
 
